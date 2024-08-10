@@ -183,11 +183,11 @@ export default function Home() {
                         Bihar is a state in eastern India, bordering Nepal. It
                         is divided by the River Ganges, which floods its fertile
                         plains. Important Buddhist pilgrimage sites include the
-                        Bodhi Tree in Bodhgaya's Mahabodhi Temple, under which
-                        the Buddha allegedly meditated. In the state capital
-                        Patna, Mahavir Mandir temple is revered by Hindus, while
-                        Sikhs worship at the domed, riverside Gurdwara of Takht
-                        Sri Harmandir Sahib Ji.
+                        Bodhi Tree in Bodhgaya&apos;s Mahabodhi Temple, under
+                        which the Buddha allegedly meditated. In the state
+                        capital Patna, Mahavir Mandir temple is revered by
+                        Hindus, while Sikhs worship at the domed, riverside
+                        Gurdwara of Takht Sri Harmandir Sahib Ji.
                     </p>
 
                     <div className="card-actions pt-6">
